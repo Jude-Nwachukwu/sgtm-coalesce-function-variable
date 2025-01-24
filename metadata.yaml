@@ -1,0 +1,5 @@
+homepage: 'https://dumbdata.co/'
+documentation: 'https://github.com/Jude-Nwachukwu/sgtm-coalesce-function-variable'
+versions:
+  - sha: 6a42fbfed8d8c2959e5c993b68183257d1c96189
+    changeNotes: Initial release.
